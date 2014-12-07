@@ -1,0 +1,6 @@
+MIDlet-Name: Fumper
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: FIRST
+MIDlet-1: Fumper, , team.gif.Fumper
+MicroEdition-Profile: IMP-1.0
+MicroEdition-Configuration: CLDC-1.1
